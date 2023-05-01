@@ -10,7 +10,7 @@
     
  🖐️ `Currently Building:` [Capstone Project](https://mod4.turing.edu/projects/capstone/) 
     
- 🤘 `Let's Talk:` Code, World Travel, or even in the Turkish Language! [Linked In](https://www.linkedin.com/in/melony-erin-franchini/)
+ 🤘 `Let's Talk:` Code, World Travel, or even in Turkish! [Linked In](https://www.linkedin.com/in/melony-erin-franchini/)
     
  🤙 `Find Out More:` View my [Resume](https://github.com/MelTravelz/MelTravelz/blob/main/Melony_Erin_Franchini_Resume.pdf)
 <br>
