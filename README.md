@@ -3,16 +3,16 @@
 
 <div align="center">
   
-✨ Soon-to-be engineering graduate from [Turing School of Software & Design](https://turing.edu/) with an [M.Ed. in Adult Learning & Global Change](https://www.ubc.ca/) and 7+ years as a professional educator. ✨ I bring a keen ability to learn new subject matter, break down complex concepts, and effectively communicate to diverse groups of people. ✨ My enthusiasm knows no bounds when tackling any level of complexity you throw my way! ✨ 
+✨ Soon-to-be Engineering Graduate from [Turing School of Software & Design](https://turing.edu/) with an [M.Ed. in Adult Learning](https://www.ubc.ca/) and 7+ years as a professional educator. ✨ I bring a keen ability to learn new subject matter, break down complex concepts, and effectively communicate to diverse groups of people. ✨ My enthusiasm knows no bounds when tackling any level of complexity you throw my way! ✨ 
 </div><br>
 
 ---
     
  🖐️ `Currently Building:` [Capstone Project](https://mod4.turing.edu/projects/capstone/) 
     
- 🤘 `Let's Talk:` Code, world travel, or even in the Turkish language! [Linked In](https://www.linkedin.com/in/melony-erin-franchini/)
+ 🤘 `Let's Talk:` Code, World Travel, or even in the Turkish Language! [Linked In](https://www.linkedin.com/in/melony-erin-franchini/)
     
- 🤙 `Find Out More:` Resume Coming Soon!
+ 🤙 `Find Out More:` View my [Resume](https://github.com/MelTravelz/MelTravelz/blob/main/Melony_Erin_Franchini_Resume.pdf)
 <br>
 
 ---
