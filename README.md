@@ -35,24 +35,29 @@
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
   ![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)
   ![Photoshop](https://img.shields.io/badge/Photoshop-326CE5?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white) 
+   <img width="99" alt="logo_twilio_sendgrid" src="https://user-images.githubusercontent.com/116964982/238383262-2714153d-7ad7-4ab0-9fed-a563974f10eb.png">
   ![HTML](https://img.shields.io/badge/HTML5-7d3cff?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Microsoft Office](https://img.shields.io/badge/Office_365-DD0031?style=for-the-badge&logo=microsoft-office&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-4B0082.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 <br><br>
 
 **What I'm Learning**
 
-  ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-   <img width="99" alt="logo_twilio_sendgrid" src="https://user-images.githubusercontent.com/116964982/238383262-2714153d-7ad7-4ab0-9fed-a563974f10eb.png">
-<br><br>
-<!-- ![SendGrid](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) 
-  ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white) -->
-  
-**What I'm Interested In**
 
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+
+  <br><br>
+  
+**What I'm Interested In**
+
+  ![AWS S3](https://img.shields.io/badge/Amazon_S3_Bucket-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![AmazonAWS](https://img.shields.io/badge/AWS_Elastic_Beanstalk-7BB661?style=for-the-badge&logo=amazonaws&logoColor=white)
+<!-- ![SendGrid](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) 
+  ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white) -->
 <br><br>
 
 ---
