@@ -45,10 +45,8 @@
 
 **What I'm Learning**
 
-
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-
   <br><br>
   
 **What I'm Interested In**
@@ -56,11 +54,6 @@
   ![AWS S3](https://img.shields.io/badge/Amazon%20S3-FF9900.svg?style=for-the-badge&logo=Amazon-S3&logoColor=white)
   ![AmazonAWS](https://img.shields.io/badge/AWS_Elastic_Beanstalk-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
   ![Star Trek](https://img.shields.io/badge/Star%20Trek-5C0D34.svg?style=for-the-badge&logo=Star-Trek&logoColor=white)
-<!-- ![SendGrid](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) 
- ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white) 
-![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white) -->
 <br><br>
 
 ---
@@ -82,3 +75,8 @@
 
 <!-- ![Terminal](https://img.shields.io/badge/Terminal-3CB371?style=for-the-badge&logo=gnu-bash&logoColor=white) -->
 <!-- ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white) -->
+<!-- ![SendGrid](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) 
+ ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white) 
+![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white) -->
