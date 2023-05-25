@@ -8,7 +8,9 @@
 
 ---
     
- 🖐️ `Currently Building:` [Capstone Project](https://mod4.turing.edu/projects/capstone/) 
+ 🖐️ `Currently Building:` [Light Bright](Link Coming Soon) 
+ 
+ 👉 `Recently Finished:` [ALPs (Adv. Lanugage Practices)](https://github.com/A-L-P-s/ALPs_api_sqlite_finale)
     
  🤘 `Let's Talk:` Code, World Travel, or even in Turkish! [Linked In](https://www.linkedin.com/in/melony-erin-franchini/)
     
