@@ -44,7 +44,7 @@
   ![Microsoft Office](https://img.shields.io/badge/Office_365-DD0031?style=for-the-badge&logo=microsoft-office&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
   ![AWS-EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?style=for-the-badge&logo=Amazon-EC2&logoColor=white) 
-  ![AWS-Elastic-IPs](https://img.shields.io/badge/AWS%20Elastic%20IPs-5C0D34.svg?style=for-the-badge&logo=Amazon-EC2&logoColor=white)
+  ![AWS-Elastic-IPs](https://img.shields.io/badge/AWS%20Elastic%20IPs-00B265.svg?style=for-the-badge&logo=Amazon-EC2&logoColor=white)
 <br><br>
 
 **What I'm Learning**
