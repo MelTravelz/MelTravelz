@@ -43,6 +43,8 @@
   ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Microsoft Office](https://img.shields.io/badge/Office_365-DD0031?style=for-the-badge&logo=microsoft-office&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+  ![AWS-EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?style=for-the-badge&logo=Amazon-EC2&logoColor=white) 
+  ![AWS-Elastic-IPs](https://img.shields.io/badge/AWS%20Elastic%20IPs-5C0D34.svg?style=for-the-badge&logo=Amazon-EC2&logoColor=white)
 <br><br>
 
 **What I'm Learning**
@@ -56,6 +58,8 @@
   ![AWS S3](https://img.shields.io/badge/Amazon%20S3-FF9900.svg?style=for-the-badge&logo=Amazon-S3&logoColor=white)
   ![AmazonAWS](https://img.shields.io/badge/AWS_Elastic_Beanstalk-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
   ![Star Trek](https://img.shields.io/badge/Star%20Trek-5C0D34.svg?style=for-the-badge&logo=Star-Trek&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
 <br><br>
 
 ---
