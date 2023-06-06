@@ -8,7 +8,7 @@
 
 ---
     
- 🖐️ `Currently Building:` Virtual Greenhouse (the tech stack includes: Libre Board, Python, and Django) [Link Coming Soon]
+ 🖐️ `Currently Building:` Virtual Greenhouse (using: Libre Board & Python/Django) [Link Coming Soon]
  
  👉 `Recently Finished:` [ALPs (Adv. Lanugage Practices)](https://github.com/A-L-P-s/ALPs_api_sqlite_finale)
     
