@@ -14,7 +14,7 @@
     
  🤘 `Let's Talk:` Code, World Travel, or even in Turkish! [Linked In](https://www.linkedin.com/in/melony-erin-franchini/)
     
- 🤙 `Find Out More:` View my [Resume](https://github.com/MelTravelz/MelTravelz/blob/main/Resume_Melony_Erin_Franchini.docx)
+ 🤙 `Find Out More:` View my [Resume](https://github.com/MelTravelz/MelTravelz/blob/main/Resume_Melony_Erin_Franchini.pdf)
 <br>
 
 ---
