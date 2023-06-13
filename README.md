@@ -4,7 +4,7 @@
 
 <div align="center">
   
-✨ I'm a graduate from [Turing School of Software & Design](https://turing.edu/) with an [M.Ed. in Adult Learning](https://www.ubc.ca/) and 7+ years as a professional educator. ✨ I bring a keen ability to learn new subject matter, break down complex concepts, and effectively communicate to diverse groups of people. ✨ My enthusiasm knows no bounds when tackling any level of complexity you throw my way! ✨
+✨ 2023 graduate from the [Turing School of Software & Design](https://turing.edu/) with an [M.Ed. in Adult Learning](https://www.ubc.ca/) and 7+ years as a professional educator. ✨ I bring a keen ability to learn new subject matter, break down complex concepts, and effectively communicate to diverse groups of people. ✨ My enthusiasm knows no bounds when tackling any level of complexity you throw my way! ✨
 </div><br>
 
 ---
