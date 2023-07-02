@@ -9,7 +9,7 @@
 
 ---
     
- 🖐️ `Currently Building:` [Virtual Greenhouse](https://github.com/orgs/Virtual-Greenhouse/repositories)(with Libre Board, Python, & Ruby on Rails) 
+ 🖐️ `Currently Building:` [Virtual Greenhouse](https://github.com/orgs/Virtual-Greenhouse/repositories) (Libre Board, Python, & Ruby on Rails) 
     
  🤘 `Let's Talk:` Code, World Travel, or even in Turkish! [Linked In](https://www.linkedin.com/in/melony-erin-franchini/)
     
