@@ -4,7 +4,7 @@
 
 <div align="center">
   
-✨ As a 2023 graduate from the [Turing School of Software & Design](https://turing.edu/) with an [M.Ed. in Adult Learning](https://www.ubc.ca/), my primary objective is to leverage my unique skill set to facilitate innovation and growth in the EdTech sector. ✨ I’m passionate about continuous learning and the software tools we build to propel their development forward. ✨ I bring a keen ability to learn new subject matter, break down complex concepts, and effectively communicate to diverse groups of people. 
+✨ As a 2023 graduate from the [Turing School of Software & Design](https://turing.edu/) with an [M.Ed. in Adult Learning](https://www.ubc.ca/), my primary objective is to leverage my unique skill set to facilitate innovation and growth in the EdTech sector. ✨ I’m passionate about continuous learning and the software tools we build to propel development forward. ✨ I bring a keen ability to learn new subject matter, break down complex concepts, and effectively communicate to diverse groups of people. 
 
 ✨ My enthusiasm knows no bounds when tackling any level of complexity you throw my way! ✨
 </div><br>
