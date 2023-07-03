@@ -1,10 +1,12 @@
 <!-- Tag Line & Quick Summary & Action Steps -->
-<h3 align="center">Hi! I'm Melony <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGQzYjI0ZDBjNzMzYzg4MWYyZGI4OTRjNjQyNDYxNWY3Nzc1ODEwNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/LreyUiYrkrMieDfCcy/giphy.gif" width="40"> A Backend Software Engineer</h3>
+<h3 align="center">Hi! I'm Melony <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGQzYjI0ZDBjNzMzYzg4MWYyZGI4OTRjNjQyNDYxNWY3Nzc1ODEwNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/LreyUiYrkrMieDfCcy/giphy.gif" width="40"> A Backend Software Engineer & EdTech Enthusiast</h3>
 <br><br>
 
 <div align="center">
   
-✨ 2023 graduate from the [Turing School of Software & Design](https://turing.edu/) with an [M.Ed. in Adult Learning](https://www.ubc.ca/) and 7+ years as a professional educator. ✨ I bring a keen ability to learn new subject matter, break down complex concepts, and effectively communicate to diverse groups of people. ✨ My enthusiasm knows no bounds when tackling any level of complexity you throw my way! ✨
+✨ As a 2023 graduate from the [Turing School of Software & Design](https://turing.edu/) with an [M.Ed. in Adult Learning](https://www.ubc.ca/), my primary objective is to leverage my unique skill set to facilitate innovation and growth in the EdTech sector. ✨ I’m passionate about continuous learning and the software tools we build to propel their development forward. ✨ I bring a keen ability to learn new subject matter, break down complex concepts, and effectively communicate to diverse groups of people. 
+
+✨ My enthusiasm knows no bounds when tackling any level of complexity you throw my way! ✨
 </div><br>
 
 ---
