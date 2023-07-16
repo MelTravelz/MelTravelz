@@ -1,12 +1,12 @@
 <!-- Tag Line & Quick Summary & Action Steps -->
-<h3 align="center">Hi! I'm Melony <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGQzYjI0ZDBjNzMzYzg4MWYyZGI4OTRjNjQyNDYxNWY3Nzc1ODEwNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/LreyUiYrkrMieDfCcy/giphy.gif" width="40"> A Backend Software Engineer & EdTech Enthusiast</h3>
+<h3 align="center">Hi! I'm Melony <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGQzYjI0ZDBjNzMzYzg4MWYyZGI4OTRjNjQyNDYxNWY3Nzc1ODEwNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/LreyUiYrkrMieDfCcy/giphy.gif" width="40"> A Software Engineer & EdTech Enthusiast</h3>
 <br><br>
 
 <div align="center">
   
-✨ As a 2023 graduate from the [Turing School of Software & Design](https://turing.edu/) with an [M.Ed. in Adult Learning](https://www.ubc.ca/), my primary objective is to leverage my unique skill set to facilitate innovation and growth in the EdTech sector. ✨ I’m passionate about continuous learning and the software tools we build to propel development forward. ✨ I bring a keen ability to learn new subject matter, break down complex concepts, and effectively communicate to diverse groups of people. 
+✨ As a 2023 graduate from the [Turing School of Software & Design](https://turing.edu/), I’m passionate about creating innovative software tools that enhance organizational efficiency, facilitate knowledge transfer, and empower individuals to reach their goals. ✨ With a [Master of Education in Adult Learning & Global Change](https://www.ubc.ca/), I’ve independently designed a 2-year, Research Writing curriculum that successfully graduated over 200 Nuclear Engineers. ✨ I bring a keen ability to learn new subject matter, break down complex concepts, and effectively communicate to diverse groups of people. 
 
-✨ My enthusiasm knows no bounds when tackling any level of complexity you throw my way! ✨
+✨ My curiosity to explore new territory and expand my knowledge has been the driving force behind my pivot into software development. I’m eager to connect with others in the tech industry...and beyond! ✨
 </div><br>
 
 ---
