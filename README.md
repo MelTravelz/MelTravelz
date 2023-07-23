@@ -31,6 +31,7 @@
   ![SQLite3](https://img.shields.io/badge/SQLite3-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)
   ![AWS-EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?style=for-the-badge&logo=Amazon-EC2&logoColor=white) 
   ![AWS-Elastic-IPs](https://img.shields.io/badge/AWS%20Elastic%20IPs-00B265.svg?style=for-the-badge&logo=Amazon-EC2&logoColor=white)
+  ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=Vultr&logoColor=white)
   ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
