@@ -1,17 +1,16 @@
 <!-- Tag Line & Quick Summary & Action Steps -->
-<h3 align="center">Hi! I'm Melony <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGQzYjI0ZDBjNzMzYzg4MWYyZGI4OTRjNjQyNDYxNWY3Nzc1ODEwNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/LreyUiYrkrMieDfCcy/giphy.gif" width="40"> A Software Engineer & EdTech Enthusiast</h3>
-<br><br>
-
 <div align="center">
-  
-✨ As a 2023 graduate from the [Turing School of Software & Design](https://turing.edu/), I’m passionate about creating innovative software tools that enhance organizational efficiency, facilitate knowledge transfer, and empower individuals to reach their goals. ✨ With a [Master of Education in Adult Learning & Global Change](https://www.ubc.ca/), I’ve independently designed a 2-year, Research Writing curriculum that successfully graduated over 200 Nuclear Engineers. ✨ I bring a keen ability to learn new subject matter, break down complex concepts, and effectively communicate to diverse groups of people. 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGQzYjI0ZDBjNzMzYzg4MWYyZGI4OTRjNjQyNDYxNWY3Nzc1ODEwNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/LreyUiYrkrMieDfCcy/giphy.gif" width="40">
+  <p>Hi! I'm Melony</p>
 
-✨ My curiosity to explore new territory and expand my knowledge has been the driving force behind my pivot into software development. I’m eager to connect with others in the tech industry...and beyond! ✨
+✨ I’m a Software Engineer who's passionate about creating software tools to enhance organizational efficiency, facilitate knowledge transfer, and empower individuals to reach their goals! ✨
+
 </div><br>
 
 ---
     
- 🖐️ `Currently Building:` [Virtual Greenhouse](https://github.com/orgs/Virtual-Greenhouse/repositories) (Libre Board, Python, & Ruby on Rails) 
+ 🖐️ `Currently Building:` [MoziPack](https://github.com/MoziPack) (Ruby on Rails, AWS s3)
+ <!--[Virtual Greenhouse](https://github.com/orgs/Virtual-Greenhouse/repositories) (Libre Board, Python, & Ruby on Rails)-->
     
  🤘 `Let's Talk:` Code, World Travel, or even in Turkish! [Linked In](https://www.linkedin.com/in/melony-erin-franchini/)
     
@@ -48,14 +47,13 @@
 
 **What I'm Learning**
 
-  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-  ![Libre Computer Board](https://img.shields.io/badge/Libre_Board-45B6F2.svg?style=for-the-badge&logo=Lospec&logoColor=white)
+  ![AWS S3](https://img.shields.io/badge/Amazon%20S3-FF9900.svg?style=for-the-badge&logo=Amazon-S3&logoColor=white)
   <br><br>
   
 **What I'm Interested In**
 
-  ![AWS S3](https://img.shields.io/badge/Amazon%20S3-FF9900.svg?style=for-the-badge&logo=Amazon-S3&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
   ![AmazonAWS](https://img.shields.io/badge/AWS_Elastic_Beanstalk-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
   ![Star Trek](https://img.shields.io/badge/Star%20Trek-5C0D34.svg?style=for-the-badge&logo=Star-Trek&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
@@ -84,7 +82,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=meltravelz&show_icons=true&theme=tokyonight">
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=meltravelz&layout=compact&theme=radical' alt="Mel's Top Languages" height='200'>
 </div> -->
-<!-- ![JSON](https://img.shields.io/badge/json-FF69B4?style=for-the-badge&logo=json&logoColor=white)
+<!-- 
+![Libre Computer Board](https://img.shields.io/badge/Libre_Board-45B6F2.svg?style=for-the-badge&logo=Lospec&logoColor=white)
+![JSON](https://img.shields.io/badge/json-FF69B4?style=for-the-badge&logo=json&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%237B2C9F.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Office_365-DD0031?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
