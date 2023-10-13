@@ -1,15 +1,19 @@
 <!-- Tag Line & Quick Summary & Action Steps -->
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGQzYjI0ZDBjNzMzYzg4MWYyZGI4OTRjNjQyNDYxNWY3Nzc1ODEwNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/LreyUiYrkrMieDfCcy/giphy.gif" width="40">
-  <p>Hi! I'm Melony</p>
+  <h3>Hi! I'm Melony, a Software Engineer</h3>
 
-✨ I’m a Software Engineer who's passionate about creating software tools to enhance organizational efficiency, facilitate knowledge transfer, and empower individuals to reach their goals! ✨
+✨ I’m passionate about creating software tools to enhance organizational efficiency, facilitate knowledge transfer, and empower individuals to reach their goals! ✨ I'm hoping to join a great team who builds cool things. ✨ 
+
+✨ Please checkout my [resume](https://github.com/MelTravelz/MelTravelz/blob/main/Resume_Melony_Erin_Franchini.pdf) and [get in touch](https://www.linkedin.com/in/melony-erin-franchini/)! ✨
 
 </div><br>
 
 ---
     
- 🖐️ `Currently Building:` [MoziPack](https://github.com/MoziPack) (Ruby on Rails, AWS s3)
+ 🖐️ `Currently Building:` [WWC Hackathon for Social Good](https://github.com/WWC-Hackathon-2023)
+
+ 👉 `Up Next:` [MoziPack](https://github.com/MoziPack) (Ruby on Rails, AWS s3)
  <!--[Virtual Greenhouse](https://github.com/orgs/Virtual-Greenhouse/repositories) (Libre Board, Python, & Ruby on Rails)-->
     
  🤘 `Let's Talk:` Code, World Travel, or even in Turkish! [Linked In](https://www.linkedin.com/in/melony-erin-franchini/)
