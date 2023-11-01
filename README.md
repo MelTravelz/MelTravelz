@@ -3,18 +3,16 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGQzYjI0ZDBjNzMzYzg4MWYyZGI4OTRjNjQyNDYxNWY3Nzc1ODEwNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/LreyUiYrkrMieDfCcy/giphy.gif" width="40">
   <h3>Hi! I'm Melony, a Software Engineer</h3>
 
-✨ I’m passionate about creating software tools to enhance organizational efficiency, facilitate knowledge transfer, and empower individuals to reach their goals! ✨ I'm hoping to join a great team who builds cool things. ✨ 
-
-✨ Please checkout my [resume](https://github.com/MelTravelz/MelTravelz/blob/main/Resume_Melony_Erin_Franchini.pdf) and [get in touch](https://www.linkedin.com/in/melony-erin-franchini/)! ✨
+✨ I’m passionate about creating software tools to enhance organizational efficiency, facilitate knowledge transfer, and empower individuals to reach their goals! ✨ Please checkout my [resume](https://github.com/MelTravelz/MelTravelz/blob/main/Resume_Melony_Erin_Franchini.pdf) and [get in touch](https://www.linkedin.com/in/melony-erin-franchini/)! ✨
 
 </div><br>
 
 ---
     
- 🖐️ `Currently Building:` [Women Who Code Hackathon for Social Good](https://github.com/WWC-Hackathon-2023)
+ 🖐️ `Currently Building:` [Affordable Housing Asset Tracker](https://github.com/mrhamric/asset-tracker)
 
- 👉 `Up Next:` [Asset Tracker](https://github.com/mrhamric/asset-tracker) & [MoziPack](https://github.com/MoziPack)
- <!--[Virtual Greenhouse](https://github.com/orgs/Virtual-Greenhouse/repositories) (Libre Board, Python, & Ruby on Rails)-->
+ <!-- 👉 `Up Next:` [MoziPack](https://github.com/MoziPack)
+ [Virtual Greenhouse](https://github.com/orgs/Virtual-Greenhouse/repositories) (Libre Board, Python, & Ruby on Rails)-->
     
  🤘 `Let's Talk:` Code, World Travel, or even in Turkish! DM on [LinkedIn](https://www.linkedin.com/in/melony-erin-franchini/)
     
@@ -51,13 +49,14 @@
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Libre Computer Board](https://img.shields.io/badge/Libre_Board-45B6F2.svg?style=for-the-badge&logo=Lospec&logoColor=white)
+  ![Cloudinary](https://img.shields.io/badge/Cloudinary-2C39BD.svg?style=for-the-badge&logo=iCloud&logoColor=white)
 <br><br>
 
 **What I'm Learning**
 
-  ![Cloudinary](https://img.shields.io/badge/Cloudinary-2C39BD.svg?style=for-the-badge&logo=iCloud&logoColor=white)
   ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=Redis&logoColor=white)
-  ![1Password](https://img.shields.io/badge/1Password-1A285F.svg?style=for-the-badge&logo=1Password&logoColor=white)
+  ![SQL (Advanced)](https://img.shields.io/badge/SQL_(Advanced)-585048.svg?style=for-the-badge&logo=CodeSandbox&logoColor=white)
+  ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white)
   <br><br>
   
 **What I'm Interested In**
@@ -93,6 +92,7 @@
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=meltravelz&layout=compact&theme=radical' alt="Mel's Top Languages" height='200'>
 </div> -->
 <!-- 
+![1Password](https://img.shields.io/badge/1Password-1A285F.svg?style=for-the-badge&logo=1Password&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![AmazonAWS](https://img.shields.io/badge/AWS_Elastic_Beanstalk-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
