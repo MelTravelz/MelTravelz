@@ -131,7 +131,7 @@
 
 <h3 align="center">
   
-[Advanced Language Practice](https://a-l-p-s.github.io/alps-ui/)
+[ALPs](https://a-l-p-s.github.io/alps-ui/)
 
 </h3>
 <div align="center">
