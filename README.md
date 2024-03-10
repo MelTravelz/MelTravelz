@@ -50,7 +50,7 @@
   ![Cloudinary](https://img.shields.io/badge/Cloudinary-2C39BD.svg?style=for-the-badge&logo=iCloud&logoColor=white)
 <br><br>
 
-**What I'm Learning**
+<!--**What I'm Learning**
 
   ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=Redis&logoColor=white)
   ![SQL (Advanced)](https://img.shields.io/badge/SQL_(Advanced)-585048.svg?style=for-the-badge&logo=CodeSandbox&logoColor=white)
@@ -65,7 +65,7 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
   ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
-<br><br>
+<br><br>-->
 
 ---
 
