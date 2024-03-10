@@ -9,14 +9,13 @@
 
  <!-- ---
     
- 🖐️ `Currently Working at:` [Colorado Governor's Office of Information Technology](https://oit.colorado.gov/)
+ 🖐️ `Currently Building:` 
 
-👉 `Up Next:` [MoziPack](https://github.com/MoziPack)
- [Virtual Greenhouse](https://github.com/orgs/Virtual-Greenhouse/repositories) (Libre Board, Python, & Ruby on Rails)
+👉 `Up Next:` 
     
- 🤘 `Let's Talk:` Code, World Travel, or even in Turkish! DM at [LinkedIn](https://www.linkedin.com/in/melony-erin-franchini/)
+ 🤘 `Let's Talk:` 
     
- 🤙 `Find Out More:` View my [Resume](https://github.com/MelTravelz/MelTravelz/blob/main/Resume_Melony_Erin_Franchini.pdf)-->
+ 🤙 `Find Out More:` View my [Resume](link would go here)-->
 
 ---
 <br>
