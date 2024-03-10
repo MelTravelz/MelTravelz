@@ -1,23 +1,22 @@
 <!-- Tag Line & Quick Summary & Action Steps -->
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGQzYjI0ZDBjNzMzYzg4MWYyZGI4OTRjNjQyNDYxNWY3Nzc1ODEwNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/LreyUiYrkrMieDfCcy/giphy.gif" width="40">
-  <h3>Hi! I'm Melony, a Software Engineer</h3>
+  <h3>Hi! I'm Melony, a Software Engineer & Technical Writer</h3>
 
-✨ I’m passionate about creating software tools to enhance organizational efficiency, facilitate knowledge transfer, and empower individuals to reach their goals! ✨ Please checkout my [resume](https://github.com/MelTravelz/MelTravelz/blob/main/Resume_Melony_Erin_Franchini.pdf) and [get in touch](https://www.linkedin.com/in/melony-erin-franchini/)! ✨
+✨ I’m passionate about software tools that enhance organizational efficiency, facilitate knowledge transfer, and empower individuals to reach their goals! ✨ Let's talk code, work travel, or even in Turkish on [Linkedin](https://www.linkedin.com/in/melony-erin-franchini/) ✨
 
 </div><br>
 
----
+ <!-- ---
     
- 🖐️ `Currently Building:` [Affordable Housing Asset Tracker](https://github.com/mrhamric/asset-tracker)
+ 🖐️ `Currently Working at:` [Colorado Governor's Office of Information Technology](https://oit.colorado.gov/)
 
- <!-- 👉 `Up Next:` [MoziPack](https://github.com/MoziPack)
- [Virtual Greenhouse](https://github.com/orgs/Virtual-Greenhouse/repositories) (Libre Board, Python, & Ruby on Rails)-->
+👉 `Up Next:` [MoziPack](https://github.com/MoziPack)
+ [Virtual Greenhouse](https://github.com/orgs/Virtual-Greenhouse/repositories) (Libre Board, Python, & Ruby on Rails)
     
- 🤘 `Let's Talk:` Code, World Travel, or even in Turkish! DM on [LinkedIn](https://www.linkedin.com/in/melony-erin-franchini/)
+ 🤘 `Let's Talk:` Code, World Travel, or even in Turkish! DM at [LinkedIn](https://www.linkedin.com/in/melony-erin-franchini/)
     
- 🤙 `Find Out More:` View my [Resume](https://github.com/MelTravelz/MelTravelz/blob/main/Resume_Melony_Erin_Franchini.pdf)
-<br>
+ 🤙 `Find Out More:` View my [Resume](https://github.com/MelTravelz/MelTravelz/blob/main/Resume_Melony_Erin_Franchini.pdf)-->
 
 ---
 <br>
