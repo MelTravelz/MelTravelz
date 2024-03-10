@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGQzYjI0ZDBjNzMzYzg4MWYyZGI4OTRjNjQyNDYxNWY3Nzc1ODEwNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/LreyUiYrkrMieDfCcy/giphy.gif" width="40">
   <h3>Hi! I'm Melony, a Software Engineer & Technical Writer</h3>
 
-✨ I’m passionate about software tools that enhance organizational efficiency, facilitate knowledge transfer, and empower individuals to reach their goals! ✨ Let's talk code, work travel, or even in Turkish on [Linkedin](https://www.linkedin.com/in/melony-erin-franchini/) ✨
+✨ I’m passionate about software tools that enhance organizational efficiency, facilitate knowledge transfer, and empower individuals to reach their goals! ✨ Let's talk code, world travel, or even in Turkish on [Linkedin](https://www.linkedin.com/in/melony-erin-franchini/) ✨
 
 </div><br>
 
